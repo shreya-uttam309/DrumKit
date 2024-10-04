@@ -1,0 +1,65 @@
+
+body{
+    background-color: #AC8968;
+}
+.text{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:normal;
+ color:#AC89 ;
+}
+.one {
+    content: "";
+    clear: both;
+    display: table;
+     margin-left: 50px;
+    margin-top: 0px;
+}
+.YOUvsYOU{
+    border: 3px solid burlywood;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+    padding: 50px;
+}
+
+
+
+.DOIT{
+    margin-left: 700px;
+    margin-right: 200px;
+    border: 3px solid burlywood;
+    width: 200px;
+    padding: 50px;
+}
+
+.keeplife{
+    border: 3px solid burlywood;
+    margin-left: 200px;
+    width: 200px;
+    padding: 50px;
+
+}
+
+.trusttime{
+    border: 3px solid burlywood;
+    margin-left: 700px;
+    margin-right: 200px;
+    width: 200px;
+    padding: 50px;
+}
+
+.yesgirl{
+    border: 3px solid burlywood;
+    margin-left: 200px;
+    width: 200px;
+    padding: 50px;
+}
+
+.thefuture{
+    border: 3px solid burlywood;
+    margin-left: 700px;
+    margin-right: 200px;
+    width: 200px;
+    padding: 50px;
+}
